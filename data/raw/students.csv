@@ -1,0 +1,301 @@
+student_id	name	age	gender	class_level	subject	term	grade	study_hours	attendance	homework_completion	class_participation	internet_access	extracurricular_activity	parent_education	score
+STU20260001	Mary Moraa	16.0	Female	Grade 10	History	Term 2	C	3.6	71.3	63.5	3	No	Sports	Secondary	61
+STU20260002	Emmanuel Moraa	17.0	Female	Grade 12	Physics	Term 3	D	2.0	88.6	61.4	4	Yes	None	Secondary	51
+STU20260003	Brian Oduor	15.0	Female	Grade 10	English	Term 1	C	3.7		100.0	3	Yes	Music	College	67
+STU20260004	Kendi Mwangi	13.0	Male	Grade 8	Physics	Term 1	B	3.7		72.3	4	Yes	Music	College	71
+STU20260005	Grace Abdi	16.0	Female	Grade 11	History	Term 2	D	2.8	82.6		3	Yes	Arts	College	55
+STU20260006	Ruth Omondi	15.0	Male	Grade 10	Mathematics	Term 1	C	4.0	85.6	76.1	4	Yes	None	Secondary	67
+STU20260007	Joseph Koech	15.0	Male	Grade 10	Geography	Term 2	C	3.6	85.2	86.3	3	Yes	Sports	College	60
+STU20260008	Wanjiku Oduor	14.0	Male	Grade 8	Chemistry	Term 3	C	3.8	87.3	75.5	3	Yes	Sports	Primary	62
+STU20260009	Joseph Wekesa	18.0	Female	Grade 12	Kiswahili	Term 1	D	3.7	80.1	78.2	2	No	Debate	Secondary	59
+STU20260010	Ian Maina	18.0	Male	Grade 12	Mathematics	Term 1	C	1.9	87.3	73.9	4	Yes	Sports	Secondary	67
+STU20260011	Abel Otieno	13.0	Female	Grade 7	English	Term 2	D	2.2	78.0	69.9	2	Yes	Sports	University	57
+STU20260012	Amani Koech	16.0	Female	Grade 10	Geography	Term 1	C	3.0	78.5	50.1	3	Yes	Debate	Secondary	63
+STU20260013	Esther Wekesa	15.0	Female	Grade 10	English	Term 1	D	2.3	85.5	98.2	3	Yes	None	Secondary	52
+STU20260014	Thomas Njoki	18.0	Male	Grade 12	Chemistry	Term 1	E	1.6	92.7	77.2	3	Yes	None	Secondary	41
+STU20260015	Peter Mwangi	17.0	Male	Grade 11	Computer Studies	Term 3	C	2.4	88.5	92.6	3	Yes	Music	Primary	60
+STU20260016	Wanjiku Kimani	14.0	Female	Grade 8	Mathematics	Term 3	C	5.4	89.1	82.8	5	No	Sports	Secondary	66
+STU20260017	Kevin Kamau	13.0	Female	Grade 7	English	Term 3	C	2.9	92.3	51.0	3	Yes	Arts	Secondary	66
+STU20260018	Beatrice Wekesa	13.0	Female	Grade 8	Chemistry	Term 3	D	3.7	83.9	76.3	4	Yes	None	Secondary	59
+STU20260019	George Omondi	13.0	Male	Grade 7	Geography	Term 1	B	2.8	100.0	100.0	2	No	Debate	University	76
+STU20260020	Wesley Kilonzo	17.0	Female	Grade 11	Chemistry	Term 1	E	3.0	77.9	70.9	2	Yes	None	Secondary	40
+STU20260021	Chloe Muthoni	12.0	Male	Grade 7	Computer Studies	Term 1	C	2.7	89.5	99.3	2	Yes	None	Secondary	60
+STU20260022	Yvonne Otieno	12.0	Female	Grade 7	History	Term 3	D	2.7	81.9	83.1	4	Yes	Music	College	55
+STU20260023	Kevin Mugambi	14.0	Female	Grade 8	English	Term 1	B	4.8	92.9	75.1	2	No	Sports	University	76
+STU20260024	Frida Nyambura	17.0	Male	Grade 12	Biology	Term 2	C	3.6	88.4	76.6	3	Yes	Debate	University	62
+STU20260025	Wanjiku Kiplagat	13.0	Female	Grade 8	Kiswahili	Term 1	B	3.0	100.0	57.9	4	Yes	Music	College	77
+STU20260026	Beatrice Oduor	15.0	Female	Grade 10	History	Term 3	D	3.8	100.0	87.0	4	Yes	Arts	Secondary	59
+STU20260027	Collins Njoki	14.0	Male	Grade 8	Computer Studies	Term 2	B	3.9	100.0	90.9	2	Yes	None	University	77
+STU20260028	Xavier Barasa	17.0	Female	Grade 12	Mathematics	Term 3	D	1.6	79.3	76.6	4	Yes	Debate	College	57
+STU20260029	Faith Nyambura	17.0	Male	Grade 12	Physics	Term 3	E	0.6	95.9	73.1	3	No	Arts	Secondary	48
+STU20260030	Beatrice Barasa	14.0	Female	Grade 9	Physics	Term 3	D	2.5	89.5	89.0	2	Yes	None	College	59
+STU20260031	Grace Kilonzo	17.0	Female	Grade 12	Biology	Term 1	A	3.6	92.6	100.0	3	Yes	Arts	College	80
+STU20260032	Brian Kamau	15.0	Female	Grade 9	Business Studies	Term 1	C	2.2	89.5	81.5	3	Yes	None	University	65
+STU20260033	Diana Koech	17.0	Female	Grade 11	Business Studies	Term 3	B	4.0	90.4	88.9	3	Yes	None	Secondary	71
+STU20260034	Leonard Gathoni	13.0	Female	Grade 7	English	Term 3	D	0.2	71.9	47.7	1	Yes	None	University	50
+STU20260035	Faith Kimani	14.0	Female	Grade 8	Mathematics	Term 1	C	2.7	98.0	77.9	2	Yes	None	Secondary	65
+STU20260036	Yvonne Moraa	17.0	Female	Grade 11	Physics	Term 3	E	2.0	89.5	72.2	1	Yes	Sports	Secondary	42
+STU20260037	George Koech	15.0	Female	Grade 10	Geography	Term 2	C	4.3	86.1	64.1	4	Yes	None	Secondary	68
+STU20260038	Beatrice Omondi	13.0	Female	Grade 7	Business Studies	Term 1	E	3.0	96.1	67.0	3	Yes	Music	Secondary	41
+STU20260039	Victor Njoroge	14.0	Female	Grade 9	Mathematics	Term 3	B		81.3	89.2	3	Yes	Arts	Secondary	74
+STU20260040	Quincy Barasa	17.0	Female	Grade 11	Physics	Term 1	D	3.1	99.3		4	Yes	Debate	University	57
+STU20260041	Mary Kariuki	13.0	Male	Grade 7	English	Term 3	E	2.9	84.4	83.5	3	Yes	None	Primary	43
+STU20260042	Ruth Nyambura	13.0	Male	Grade 8	Kiswahili	Term 3	E	0.8	58.5	62.1	5	No	Music	College	41
+STU20260043	Yvonne Gathoni	14.0	Male	Grade 8	Mathematics	Term 1	B	3.5	81.9	91.7	5	Yes	None	University	79
+STU20260044	Wesley Abdi	13.0	Male	Grade 7	Computer Studies	Term 1	D	3.1	100.0	73.8	2	No	Sports	Secondary	55
+STU20260045	Kevin Muli	12.0	Female	Grade 7	Chemistry	Term 2	D	2.0	87.6	71.7	3	No	Sports	Secondary	56
+STU20260046	Amani Kariuki	16.0	Male	Grade 10	Physics	Term 2	C	5.7	90.3	84.8	3	No	Music	College	61
+STU20260047	Hannah Kiptoo	16.0	Female	Grade 11	Business Studies	Term 1	B	4.4	95.4	81.5	3	Yes	Music	College	73
+STU20260048	Xavier Kilonzo	16.0	Male	Grade 11	History	Term 3	A	4.7	100.0	81.6	4	Yes	None	University	83
+STU20260049	Diana Muli	15.0	Male	Grade 10	Chemistry	Term 1	C	5.2	79.9	89.9	5	Yes	Music	Secondary	66
+STU20260050	Chloe Chebet	17.0	Female	Grade 12	Computer Studies	Term 3	D	0.6	87.8	60.8	4	Yes	None	University	57
+STU20260051	Emmanuel Muthoni	13.0	Male	Grade 7	Mathematics	Term 2	E	1.5	88.5	61.5	1	No	Sports	Secondary	39
+STU20260052	Grace Abdi	16.0	Male	Grade 10	Kiswahili	Term 3	D	3.0	82.5	72.8	4	Yes	None	Secondary	56
+STU20260053	Peter Wanjala	15.0	Male	Grade 9	Biology	Term 2	E	1.4	89.5	78.5	1	No	None	Secondary	45
+STU20260054	Naomi Muthoni	18.0	Male	Grade 12	Computer Studies	Term 1	D	0.8	85.0	64.0	4	Yes	Music	Primary	52
+STU20260055	Samuel Njoki	15.0	Female	Grade 9	Geography	Term 3	E	1.2	84.1	58.9	2	No	Sports	Secondary	39
+STU20260056	Collins Muthoni	15.0	Male	Grade 10	Geography	Term 3	D	2.1	74.5	85.5	3	No	Music	College	51
+STU20260057	Emmanuel Muli	17.0	Male	Grade 12	Chemistry	Term 2	B	2.6	82.4	86.7	5	Yes	None	College	70
+STU20260058	Peter Oduor	13.0	Female	Grade 7	Kiswahili	Term 2	E		74.9	55.6	2	Yes	Sports	Primary	48
+STU20260059	Rachel Wekesa	15.0	Female	Grade 9	Kiswahili	Term 1	B	3.6	87.8	89.6	2	Yes	Debate	College	71
+STU20260060	Njeri Oduor	17.0	Female	Grade 12	Physics	Term 1	E	4.6	70.0	64.8	3	Yes	Music	University	49
+STU20260061	George Oduor	13.0	Female	Grade 7	English	Term 2	D	2.9	88.2	87.7	4	Yes	Arts	Secondary	53
+STU20260062	Daniel Chebet	12.0	Male	Grade 7	Kiswahili	Term 2	A	5.4	95.0	82.8	3	Yes	None	Secondary	89
+STU20260063	Kendi Kiplagat	14.0	Male	Grade 9	Computer Studies	Term 1	C	3.6	98.5	88.6	4	Yes	Sports	Secondary	64
+STU20260064	Lydia Mwangi	16.0	Male	Grade 11	Biology	Term 2	D	4.7	91.8	100.0	4	Yes	Arts	Secondary	59
+STU20260065	Abel Maina	17.0	Male	Grade 12	Mathematics	Term 2	C	3.3	89.6	79.8	3	Yes	Sports	Primary	62
+STU20260066	Irene Wekesa	17.0	Female	Grade 12	English	Term 2	A	4.3		96.5	3	Yes	Debate	Secondary	83
+STU20260067	Samuel Barasa	18.0	Female	Grade 12	History	Term 2	C	3.0	85.2	70.3	3	Yes	Sports	University	64
+STU20260068	Yvonne Moraa	18.0	Female	Grade 12	Kiswahili	Term 3	E	4.4	79.2	55.9	2	No	Music	College	32
+STU20260069	Peter Muli	13.0	Male	Grade 7	Physics	Term 2	B	2.3	78.4	71.1	4	Yes	Sports	University	72
+STU20260070	Irene Wanjala	14.0	Female	Grade 9	Geography	Term 2	A	7.3	100.0	85.8	5	No	Debate	Secondary	86
+STU20260071	Oscar Otieno	17.0	Female	Grade 11	English	Term 1	D	3.5	79.4	61.3	3	No	Sports	Secondary	51
+STU20260072	Irene Koech	14.0	Female	Grade 8	English	Term 3	D	1.5	91.0	73.0	1	Yes	Sports	Secondary	50
+STU20260073	Sheila Kamau	17.0	Female	Grade 12	Business Studies	Term 2	E	1.1	86.6	86.5	2	Yes	None	College	49
+STU20260074	Rachel Wanjala	13.0	Male	Grade 8	English	Term 1	E	1.8	77.9	79.6	1	Yes	None	University	46
+STU20260075	Lydia Kimani	12.0	Female	Grade 7	Computer Studies	Term 3	E	1.2	77.9	76.0	3	Yes	None	University	44
+STU20260076	Patricia Wanjala	14.0	Female	Grade 8	Biology	Term 2	D	2.5	78.9	77.6	2	Yes	Debate	College	52
+STU20260077	Wanjiku Koech	18.0	Female	Grade 12	English	Term 3	B	4.7	92.2	92.6	2	Yes	Sports	Primary	75
+STU20260078	Zawadi Otieno	16.0	Female	Grade 10	Business Studies	Term 3	E	2.5	89.1	37.8	3	Yes	Debate	Secondary	42
+STU20260079	Collins Were	17.0	Male	Grade 11	Biology	Term 3	D	3.3	90.9	100.0	3	Yes	Arts	Primary	59
+STU20260080	Daniel Barasa	16.0	Female	Grade 10	History	Term 2	E	2.1	84.7	77.2	3	Yes	None	College	44
+STU20260081	Hannah Kiptoo	14.0	Male	Grade 9	Business Studies	Term 2	C	3.8	91.4	89.6	2	No	None	University	60
+STU20260082	Frida Kariuki	18.0	Female	Grade 12	History	Term 2	C	4.3	88.1		4	Yes	None	Secondary	62
+STU20260083	Esther Koech	13.0	Male	Grade 8	Chemistry	Term 3	D	3.6	84.8	90.4	4	Yes	Sports	University	56
+STU20260084	Henry Mutua	14.0	Female	Grade 8	Computer Studies	Term 3	E	2.6	91.7	80.9	3	Yes	Debate	College	42
+STU20260085	Thomas Maina	15.0	Male	Grade 9	Geography	Term 3	C	2.9	82.6	84.0	3	No	Arts	Secondary	63
+STU20260086	Kevin Moraa	16.0	Female	Grade 10	History	Term 3	D	2.8	80.2	66.1	3	No	None	University	54
+STU20260087	Kevin Chebet	15.0	Male	Grade 10	Chemistry	Term 3	D	2.6	89.9	78.0	3	Yes	Sports	University	54
+STU20260088	Rachel Nyambura	15.0	Male	Grade 9	Chemistry	Term 1	B	4.2	88.2	80.4	2	Yes	None	Secondary	74
+STU20260089	Daniel Kimani	18.0	Male	Grade 12	Business Studies	Term 1	C	3.1	90.8	79.2	3	Yes	Sports	University	61
+STU20260090	Joy Otieno	16.0	Male	Grade 10	Kiswahili	Term 2	B	3.1	81.6	94.5	5	Yes	None	Secondary	70
+STU20260091	Joseph Wekesa	15.0	Female	Grade 9	Geography	Term 3	D	1.0	77.2	86.9	3	Yes	None	College	52
+STU20260092	Patricia Kiptoo	12.0	Female	Grade 7	Biology	Term 2	B	3.7	79.7	86.7	3	Yes	None	Primary	75
+STU20260093	Leonard Kilonzo	17.0	Female	Grade 12	English	Term 2	D	2.1	79.8	92.4	3	Yes	Sports	College	58
+STU20260094	Mary Wanjala	14.0	Female	Grade 9	Chemistry	Term 2	C	2.1	85.8	83.5	3	Yes	Sports	University	66
+STU20260095	Rachel Kilonzo	16.0	Male	Grade 10	Geography	Term 3	E	3.3	99.9	47.3	2	Yes	Arts	Secondary	49
+STU20260096	George Chebet	17.0	Male	Grade 12	Biology	Term 3	E	2.4	83.0	60.7	1	Yes	Music	College	44
+STU20260097	Naomi Kamau	16.0	Female	Grade 10	Kiswahili	Term 1	C	4.2	82.0	91.1	3	Yes	None	College	66
+STU20260098	Xavier Kiptoo	15.0	Male	Grade 10	Computer Studies	Term 1	C	3.7		100.0	2	Yes	Sports	Primary	62
+STU20260099	Oscar Moraa	18.0	Female	Grade 12	English	Term 3	E	1.5	77.3	100.0	3	Yes	Sports	University	31
+STU20260100	Victor Muli	12.0	Male	Grade 7	Chemistry	Term 2	D	0.9	95.2	69.2	4	Yes	None	Primary	57
+STU20260101	Hannah Mugambi	18.0	Male	Grade 12	Physics	Term 1	D	1.0	74.0	71.3	3	Yes	Sports	Secondary	58
+STU20260102	Quincy Muthoni	15.0	Female	Grade 10	Physics	Term 2	C	2.5	95.1	76.9	3	No	Music	Secondary	68
+STU20260103	Oscar Kimani	15.0	Female	Grade 10	Geography	Term 2	C	3.6	87.6	100.0	3	Yes	Music	Secondary	65
+STU20260104	Sheila Oduor	18.0	Male	Grade 12	Business Studies	Term 1	C	3.5	92.8	100.0	5	Yes	None	College	66
+STU20260105	Henry Otieno	12.0	Female	Grade 7	Physics	Term 2	E	0.6	66.2	78.6	3	No	Music	University	49
+STU20260106	Rachel Mugambi	13.0	Male	Grade 8	Chemistry	Term 3	E	0.2	85.1	78.0	1	No	Sports	College	25
+STU20260107	Wesley Kilonzo	15.0	Male	Grade 10	Chemistry	Term 1	D	1.7	95.5	36.6	2	Yes	None	University	55
+STU20260108	Ruth Achieng	13.0	Male	Grade 7	Business Studies	Term 2	D	1.3	94.6	61.3	2	Yes	Arts	Primary	51
+STU20260109	Patricia Chebet	13.0	Female	Grade 8	English	Term 3	D	1.5	92.1	75.3	3	No	Sports	College	52
+STU20260110	Irene Gathoni	15.0	Female	Grade 10	Biology	Term 1	C	2.1	76.9	100.0	3	Yes	Music	University	63
+STU20260111	Leonard Mugambi	13.0	Female	Grade 7	English	Term 3	C	3.9	85.1	74.9	3	Yes	Debate	Primary	68
+STU20260112	Naomi Wekesa	15.0	Male	Grade 9	English	Term 1	B	4.2	99.4	95.4	2	No	None	University	73
+STU20260113	Thomas Kilonzo	17.0	Female	Grade 12	Physics	Term 1	D	4.3	64.6	79.2	3	Yes	Music	Primary	57
+STU20260114	Zawadi Otieno	17.0	Male	Grade 12	Computer Studies	Term 3	B	2.1	89.6	50.2	5	Yes	Debate	University	72
+STU20260115	Ian Wanjala	12.0	Female	Grade 7	English	Term 3	B	3.5	90.0	88.7	3	Yes	None	College	78
+STU20260116	Hannah Muthoni	12.0	Female	Grade 7	Chemistry	Term 2	D	3.9	96.6	82.1	3	Yes	Sports	Secondary	56
+STU20260117	Hannah Kimani	17.0	Male	Grade 11	Kiswahili	Term 3	E	2.8	78.8	66.0	1	Yes	Debate	Secondary	39
+STU20260118	Kendi Gathoni	15.0	Female	Grade 10	Business Studies	Term 2	D	1.1	96.3	68.4	3	No	Debate	University	50
+STU20260119	Samuel Nyambura	17.0	Male	Grade 11	Geography	Term 2	B	2.9	100.0	78.8	5	Yes	Arts	University	74
+STU20260120	Zawadi Wanjala	16.0	Male	Grade 10	Mathematics	Term 3	E	1.5	72.6	48.9	3	Yes	Arts	College	43
+STU20260121	Ian Chebet	13.0	Female	Grade 8	Business Studies	Term 2	C	3.0	91.8	79.5	3	Yes	Sports	Secondary	64
+STU20260122	Mark Achieng	14.0	Female	Grade 9	Biology	Term 2	E	1.9	76.2	69.0	2	No	None	University	43
+STU20260123	Victor Koech	13.0	Female	Grade 8	Biology	Term 1	E	3.3	69.5	78.7	5	Yes	Sports	Secondary	40
+STU20260124	Irene Kamau	17.0	Male	Grade 11	Mathematics	Term 3	B	4.2	86.1		2	Yes	None	University	71
+STU20260125	Wanjiku Kiplagat	16.0	Female	Grade 10	Mathematics	Term 3	D	3.7	90.7	93.7	2	Yes	Sports	University	56
+STU20260126	Henry Otieno	17.0	Female	Grade 12	English	Term 1	E	3.5	86.8	97.6	3	Yes	Debate	Secondary	49
+STU20260127	Leonard Kariuki	14.0	Female	Grade 9	Business Studies	Term 2	E	2.3	79.7	85.0	4	Yes	None	Secondary	46
+STU20260128	Emmanuel Mwangi	15.0	Male	Grade 9	Biology	Term 3	E	2.8	92.8	56.4	3	No	None	Secondary	42
+STU20260129	Brian Wekesa	17.0	Male	Grade 12	Physics	Term 1	D	4.4	87.8	90.8	3	Yes	None	Secondary	55
+STU20260130	Thomas Kamau	15.0	Male	Grade 10	History	Term 3	D	2.6	80.2	81.2	3	Yes	None	Secondary	56
+STU20260131	Ian Mwangi	13.0	Female	Grade 8	Chemistry	Term 1	C	4.5	93.6	86.5	3	No	Sports	Secondary	65
+STU20260132	Kevin Gathoni	15.0	Female	Grade 9	Business Studies	Term 3	C	1.1	86.8	60.4	3	Yes	None	Secondary	60
+STU20260133	Njeri Njoroge	13.0	Male	Grade 7	Kiswahili	Term 2	E	0.9	76.8	71.6	3	No	None	College	47
+STU20260134	Kendi Achieng	16.0	Male	Grade 11	Mathematics	Term 3	E	0.2	88.4	47.6	2	Yes	Arts	Secondary	35
+STU20260135	Yvonne Otieno	16.0	Female	Grade 11	History	Term 2	C	1.2	87.6	47.9	3	No	None	Secondary	63
+STU20260136	Kevin Abdi	12.0	Female	Grade 7	Physics	Term 3	E	3.3	89.8	70.0	3	No	None	Secondary	40
+STU20260137	Brian Kariuki	18.0	Male	Grade 12	Geography	Term 1	E	0.8	75.0	62.2	4	Yes	Music	University	48
+STU20260138	Oscar Muli	12.0	Male	Grade 7	Biology	Term 1	D	3.1	75.4	71.4	2	Yes	None	Secondary	55
+STU20260139	Henry Wanjala	16.0	Female	Grade 11	History	Term 1	B	3.1	100.0	72.5	3	Yes	None	University	72
+STU20260140	Brian Wanjala	17.0	Male	Grade 12	English	Term 3	D	1.8	80.8	81.2	1	Yes	Sports	Primary	58
+STU20260141	Joseph Kariuki	16.0	Female	Grade 10	Computer Studies	Term 2	D	3.0	86.2	77.5	3	Yes	Debate	Secondary	58
+STU20260142	Talia Oduor	14.0	Female	Grade 9	Chemistry	Term 1	B	5.0	94.3	69.0	4	No	Sports	University	78
+STU20260143	Abel Nyambura	15.0	Male	Grade 9	Business Studies	Term 2	B	4.4	94.5	100.0	5	Yes	Sports	College	70
+STU20260144	Yvonne Barasa	16.0	Female	Grade 10	Mathematics	Term 3	E	0.9	91.0	57.7	5	Yes	None	College	40
+STU20260145	Wanjiku Njoki	18.0	Male	Grade 12	Geography	Term 2	B	2.7	77.0	95.8	4	Yes	Debate	University	74
+STU20260146	Esther Muli	15.0	Female	Grade 10	Physics	Term 2	D	4.5	75.2	84.1	4	No	None	Primary	56
+STU20260147	Oscar Mugambi	16.0	Female	Grade 11	English	Term 3	E	2.9	83.4	78.8	1	No	Debate	College	36
+STU20260148	Quincy Kimani	14.0	Female	Grade 9	Biology	Term 3	B	2.8	82.7	85.7	4	Yes	Arts	University	74
+STU20260149	Talia Abdi	14.0	Male	Grade 9	Computer Studies	Term 2	B	5.0	82.5	83.0	4	Yes	Music	College	73
+STU20260150	Hannah Mwangi	15.0	Male	Grade 9	Geography	Term 3	E	1.9	80.4	73.8	4	No	Debate	Secondary	41
+STU20260151	Diana Kiplagat	13.0	Female	Grade 8	Biology	Term 2	C	2.9	92.6	83.8	2	Yes	None	Secondary	65
+STU20260152	Ian Abdi	12.0	Male	Grade 7	Chemistry	Term 2	D	3.2	88.6	75.9	4	Yes	Sports	Secondary	54
+STU20260153	Naomi Achieng	16.0	Male	Grade 10	Business Studies	Term 2	B	5.5	100.0	67.0	4	Yes	None	Primary	75
+STU20260154	Daniel Kiptoo	16.0	Male	Grade 11	Physics	Term 2	C	3.6	96.6	70.2	2	Yes	Sports	Secondary	63
+STU20260155	Ian Njoroge	17.0	Female	Grade 12	Computer Studies	Term 3	D	3.3	86.4	87.3	2	Yes	None	University	57
+STU20260156	Yvonne Barasa	13.0	Male	Grade 7	Mathematics	Term 3	E	4.4	63.2	75.6	4	Yes	None	Primary	37
+STU20260157	Thomas Kiplagat	15.0	Male	Grade 9	Physics	Term 1	C	1.8	92.5	82.6	1	Yes	None	College	67
+STU20260158	Naomi Otieno	18.0	Female	Grade 12	History	Term 2	E		74.4	74.4	2	No	Sports	Primary	36
+STU20260159	Mark Oduor	16.0	Female	Grade 11	Chemistry	Term 1	E	0.6	77.8	71.1	1	Yes	None	College	44
+STU20260160	Frida Nyambura	14.0	Female	Grade 8	Kiswahili	Term 1	D	1.9	89.4	76.6	3	Yes	Music	College	58
+STU20260161	Esther Nyambura	17.0	Male	Grade 11	Biology	Term 2	D	3.0	100.0	84.2	3	No	Music	College	59
+STU20260162	Lydia Muli	14.0	Female	Grade 9	Computer Studies	Term 3	D	1.2	87.7	78.0	3	Yes	None	Secondary	52
+STU20260163	Talia Kiptoo	12.0	Female	Grade 7	Business Studies	Term 1	D	3.8	90.4	63.0	4	Yes	Debate	University	55
+STU20260164	Grace Were	16.0	Female	Grade 10	Mathematics	Term 1	C	3.5	87.5	71.3	4	No	Debate	University	60
+STU20260165	Mary Muthoni	14.0	Female	Grade 9	Chemistry	Term 1	D	2.8	82.7	94.3	3	Yes	Sports	Secondary	53
+STU20260166	Samuel Maina	16.0	Female	Grade 11	Biology	Term 1	C	3.7	93.7	100.0	3	Yes	None	College	69
+STU20260167	Faith Kimani	16.0	Male	Grade 10	Mathematics	Term 3	A	6.6	95.5	100.0	4	Yes	None	College	98
+STU20260168	Leonard Mwangi	16.0	Male	Grade 10	Computer Studies	Term 1	D	2.3	94.2	75.0	3	Yes	Sports	Primary	55
+STU20260169	Quincy Otieno	13.0	Male	Grade 8	Kiswahili	Term 3	C	2.7	68.3	65.1	3	Yes	Sports	College	61
+STU20260170	Wanjiku Kamau	16.0	Female	Grade 10	Business Studies	Term 1	D	3.5	89.4	88.2	3	Yes	None	University	59
+STU20260171	Esther Gathoni	17.0	Female	Grade 11	Business Studies	Term 1	D	2.4	92.6	71.9	2	Yes	None	Primary	58
+STU20260172	Victor Mutua	16.0	Female	Grade 10	Chemistry	Term 2	E	3.1	84.9	79.0	3	No	Music	Secondary	47
+STU20260173	Patricia Koech	13.0	Male	Grade 8	Physics	Term 3	D	2.0	89.1	88.0	3	No	None	University	51
+STU20260174	Amani Otieno	13.0	Male	Grade 8	Kiswahili	Term 2	B	4.5	88.4	79.7	5	Yes	None	Primary	77
+STU20260175	Emmanuel Oduor	14.0	Female	Grade 8	Physics	Term 2	E	1.9	76.1	76.4	3	Yes	Arts	College	46
+STU20260176	Frida Muthoni	17.0	Female	Grade 12	History	Term 1	C	4.1	94.0	90.1	5	Yes	None	University	67
+STU20260177	Peter Were	14.0	Male	Grade 8	Chemistry	Term 1	D	3.1	91.2	85.0	4	Yes	Music	College	54
+STU20260178	Frida Mutua	18.0	Female	Grade 12	Chemistry	Term 2	E	2.5	100.0	83.0	4	Yes	Music	Secondary	44
+STU20260179	Patricia Oduor	14.0	Female	Grade 9	Geography	Term 3	C	2.0	84.0	75.2	3	No	Debate	University	60
+STU20260180	Ruth Nyambura	17.0	Male	Grade 11	Physics	Term 3	C	4.4	100.0	72.4	3	Yes	Debate	College	68
+STU20260181	Njeri Omondi	18.0	Male	Grade 12	History	Term 1	A	3.1	88.4	85.9	5	Yes	Music	Secondary	80
+STU20260182	Daniel Kilonzo	13.0	Male	Grade 7	Chemistry	Term 1	E	2.4	78.5	71.8	4	Yes	Arts	Secondary	48
+STU20260183	Henry Nyambura	13.0	Male	Grade 7	Mathematics	Term 2	C	1.6	84.2	81.3	1	Yes	Music	College	60
+STU20260184	Sheila Otieno	18.0	Female	Grade 12	Computer Studies	Term 3	B	3.5	86.0	86.0	4	Yes	None	College	71
+STU20260185	Lydia Kilonzo	13.0	Female	Grade 7	Chemistry	Term 3	E	0.2	72.0	91.5	2	Yes	Arts	Secondary	44
+STU20260186	Wesley Were	17.0	Male	Grade 11	Kiswahili	Term 3	A	5.6	99.2	68.0	4	Yes	None	Secondary	83
+STU20260187	Brian Kariuki	13.0	Female	Grade 7	Computer Studies	Term 2	C	2.4	78.6	39.8	3	Yes	None	College	65
+STU20260188	Samuel Maina	17.0	Female	Grade 12	Business Studies	Term 2	B	4.3	89.4	89.5	4	Yes	Music	Secondary	73
+STU20260189	Quincy Wanjala	13.0	Male	Grade 8	Biology	Term 1	D	3.7	69.2	99.9	3	Yes	None	Secondary	59
+STU20260190	Thomas Mutua	16.0	Male	Grade 11	English	Term 2	D	3.5	96.6	90.9	5	Yes	Music	Primary	58
+STU20260191	Zawadi Kimani	14.0	Female	Grade 8	English	Term 1	B	3.6	93.2		3	No	Sports	College	75
+STU20260192	Esther Njoroge	16.0	Male	Grade 11	Business Studies	Term 3	D	2.8	90.8	100.0	5	Yes	Debate	Primary	54
+STU20260193	Peter Koech	13.0	Female	Grade 7	History	Term 2	E	0.2	87.2	57.9	2	Yes	None	College	41
+STU20260194	Chloe Otieno	17.0	Male	Grade 12	Mathematics	Term 2	D	3.9	97.9	80.9	1	Yes	Sports	College	51
+STU20260195	Abel Gathoni	15.0	Male	Grade 10	Chemistry	Term 1	D	2.2	94.2	78.6	2	Yes	Debate	College	59
+STU20260196	Leonard Were	17.0	Male	Grade 12	Physics	Term 1	D	1.8	98.6	51.0	1	No	Arts	College	53
+STU20260197	Quincy Otieno	16.0	Female	Grade 10	History	Term 1	C	1.9	86.2	88.3	5	No	Debate	Secondary	67
+STU20260198	Henry Mugambi	15.0	Male	Grade 9	Computer Studies	Term 2	C	2.0	77.1	77.4	4	No	None	College	62
+STU20260199	Frida Oduor	13.0	Male	Grade 7	Chemistry	Term 2	B	4.0	95.5	75.0	3	No	None	College	73
+STU20260200	Irene Nyambura	13.0	Female	Grade 7	Kiswahili	Term 2	D	1.2	73.2	68.9	1	Yes	Sports	Secondary	50
+STU20260201	Ruth Kiptoo	13.0	Male	Grade 8	Business Studies	Term 3	E	3.4	79.9	80.1	1	Yes	Arts	Primary	46
+STU20260202	Collins Omondi	15.0	Female	Grade 9	Biology	Term 3	D	3.0	87.9	89.1	4	Yes	Debate	Secondary	55
+STU20260203	Wanjiku Nyambura	15.0	Female	Grade 10	Kiswahili	Term 1	C	3.1	68.6	71.4	4	Yes	Sports	College	69
+STU20260204	Victor Gathoni	16.0	Male	Grade 11	Kiswahili	Term 2	C	4.2	86.1	74.9	5	Yes	None	Primary	65
+STU20260205	Frida Njoroge	17.0	Female	Grade 11	Physics	Term 1	C	4.9		62.2	5	Yes	Sports	Secondary	61
+STU20260206	Leonard Kiplagat	15.0	Male	Grade 9	Computer Studies	Term 3	C	3.0		91.5	2	Yes	Music	University	67
+STU20260207	Brian Kamau	16.0	Female	Grade 11	Chemistry	Term 2	C	2.5	100.0	53.6	3	Yes	None	University	63
+STU20260208	Grace Wekesa	16.0	Female	Grade 10	Kiswahili	Term 2	B	4.5	100.0	88.6	4	No	Sports	University	75
+STU20260209	Kevin Chebet	14.0	Male	Grade 9	Biology	Term 1	A	3.5	100.0	82.3	3	Yes	Music	College	80
+STU20260210	Hannah Kariuki	17.0	Male	Grade 11	Computer Studies	Term 3	A	3.0	90.9	90.9	3	Yes	None	College	86
+STU20260211	Talia Njoroge	17.0	Female	Grade 11	Computer Studies	Term 2	B	4.1	91.1	57.6	4	Yes	None	Secondary	77
+STU20260212	Faith Barasa	18.0	Male	Grade 12	Biology	Term 2	C	3.8	76.9	59.7	4	Yes	Music	College	61
+STU20260213	Patricia Barasa	17.0	Female	Grade 11	Computer Studies	Term 2	D	2.3	99.0	78.0	2	Yes	None	Secondary	59
+STU20260214	Henry Mugambi	18.0	Female	Grade 12	Biology	Term 2	C	2.9	96.6	93.4	3	Yes	None	College	64
+STU20260215	Peter Maina	15.0	Male	Grade 10	History	Term 3	C	5.0	85.6	89.7	5	Yes	Sports	Secondary	65
+STU20260216	Hannah Kariuki	18.0	Female	Grade 12	Chemistry	Term 3	D	1.7	83.6	78.8	2	Yes	Sports	College	53
+STU20260217	Naomi Omondi	12.0	Male	Grade 7	Computer Studies	Term 2	D	3.8	100.0	75.1	4	Yes	Debate	College	54
+STU20260218	Esther Kamau	13.0	Male	Grade 8	Kiswahili	Term 3	D	4.4	83.2	64.3	4	Yes	Sports	Secondary	52
+STU20260219	Njeri Kimani	17.0	Male	Grade 11	Computer Studies	Term 1	B	4.1	92.9	84.3	4	No	Sports	Secondary	78
+STU20260220	Esther Mutua	17.0	Male	Grade 11	Mathematics	Term 2	E	0.2	85.4	65.5	2	Yes	None	Secondary	42
+STU20260221	Esther Oduor	12.0	Male	Grade 7	English	Term 2	A	3.1	98.2	56.0	3	Yes	Debate	University	81
+STU20260222	Talia Abdi	16.0	Male	Grade 11	Kiswahili	Term 2	C	4.6	85.5	84.1	3	Yes	None	University	61
+STU20260223	Oscar Kimani	14.0	Male	Grade 8	English	Term 1	E	4.4	97.9	77.4	3	No	Arts	Primary	48
+STU20260224	Leonard Mugambi	15.0	Female	Grade 10	Kiswahili	Term 2	C	3.5	90.5	89.7	4	No	None	College	60
+STU20260225	Talia Chebet	13.0	Male	Grade 8	History	Term 1	C	3.9	96.5	89.0	3	Yes	Sports	Secondary	63
+STU20260226	Samuel Omondi	15.0	Female	Grade 10	History	Term 2	D	2.0	89.7	87.8	3	No	Music	Secondary	51
+STU20260227	Emmanuel Kiplagat	17.0	Female	Grade 12	History	Term 1	B	4.3	94.7	90.5	3	Yes	Sports	Secondary	78
+STU20260228	Faith Kiptoo	18.0	Female	Grade 12	Kiswahili	Term 2	C	5.1	73.8	89.9	2	Yes	Sports	Secondary	64
+STU20260229	Oscar Kiplagat	16.0	Female	Grade 10	Mathematics	Term 3	B	3.6	74.8	84.3	4	Yes	Sports	Secondary	77
+STU20260230	Emmanuel Kiplagat	18.0	Female	Grade 12	History	Term 3	C	4.1	97.0		4	Yes	None	Secondary	69
+STU20260231	Ruth Were	12.0	Female	Grade 7	Business Studies	Term 1	C	1.8	76.4	66.0	2	Yes	Debate	Secondary	61
+STU20260232	Xavier Abdi	17.0	Male	Grade 11	History	Term 2	E	2.4	87.1	71.0	2	Yes	Arts	College	46
+STU20260233	Njeri Njoki	16.0	Male	Grade 10	Kiswahili	Term 1	D	3.6	72.3	71.7	2	Yes	Sports	University	53
+STU20260234	Ian Maina	14.0	Female	Grade 9	History	Term 3	C	3.7	94.4	95.5	3	Yes	None	Secondary	64
+STU20260235	Kevin Kiptoo	12.0	Female	Grade 7	English	Term 1	E	2.2	80.2	66.4	2	Yes	Sports	College	48
+STU20260236	Hannah Nyambura	13.0	Female	Grade 8	Kiswahili	Term 3	D	2.4	86.5	90.5	3	No	Arts	College	58
+STU20260237	Beatrice Koech	13.0	Male	Grade 7	Kiswahili	Term 3	A	5.4	82.0	99.7	3	Yes	Arts	University	83
+STU20260238	Rachel Moraa	16.0	Female	Grade 10	Mathematics	Term 3	C	2.5	80.0	87.4	4	No	Arts	Secondary	67
+STU20260239	Daniel Abdi	12.0	Female	Grade 7	Physics	Term 3	E	3.1	84.6	76.6	3	Yes	Sports	College	47
+STU20260240	Victor Mugambi	13.0	Female	Grade 8	Biology	Term 2	E	0.2	64.8	53.8	3	Yes	Sports	University	40
+STU20260241	Kevin Muthoni	13.0	Female	Grade 8	Mathematics	Term 3	C	4.6	83.5	100.0	3	Yes	Arts	Secondary	67
+STU20260242	Njeri Barasa	17.0	Male	Grade 11	Kiswahili	Term 3	E	1.8	84.2	65.3	5	No	Sports	College	43
+STU20260243	Joy Kiptoo	13.0	Male	Grade 8	Geography	Term 2	D	3.1	98.9	86.6	5	No	Music	Secondary	54
+STU20260244	Kevin Achieng	15.0	Female	Grade 10	Biology	Term 2	C	4.6	95.2	100.0	2	No	Music	College	66
+STU20260245	Joseph Chebet	16.0	Female	Grade 11	English	Term 3	E	2.7	95.0	69.5	2	Yes	None	University	41
+STU20260246	Abel Maina	16.0	Female	Grade 10	Business Studies	Term 2	C	2.3	84.5	75.5	4	Yes	None	University	66
+STU20260247	Sheila Njoki	13.0	Female	Grade 8	Geography	Term 2	C	3.2	86.5	68.0	3	Yes	Arts	Secondary	61
+STU20260248	Kevin Koech	14.0	Female	Grade 8	Business Studies	Term 3	C	3.8	100.0	94.1	2	Yes	Sports	College	65
+STU20260249	Grace Mutua	13.0	Female	Grade 7	Mathematics	Term 3	D	3.2	100.0	80.9	3	Yes	Music	Secondary	54
+STU20260250	Chloe Otieno	17.0	Male	Grade 11	Mathematics	Term 1	D	4.1	99.5	71.4	3	Yes	Music	Secondary	54
+STU20260251	Naomi Mugambi	17.0	Female	Grade 12	Mathematics	Term 1	C	1.7	77.4	74.8	4	Yes	Arts	Primary	66
+STU20260252	Irene Mutua	17.0	Male	Grade 12	Geography	Term 2	B	5.4	95.7	74.5	3	No	Music	Primary	74
+STU20260253	Chloe Achieng	13.0	Female	Grade 8	Chemistry	Term 2	D	4.7	100.0	94.9	4	Yes	Sports	Primary	58
+STU20260254	Daniel Mwangi	15.0	Male	Grade 9	Kiswahili	Term 3	D	3.7	90.1	88.1	3	No	None	College	58
+STU20260255	Esther Kamau	13.0	Male	Grade 7	Mathematics	Term 1	B	4.1	97.8	89.6	5	Yes	None	Secondary	72
+STU20260256	Kevin Wanjala	15.0	Male	Grade 9	Physics	Term 2	D	2.5	100.0	79.3	3	Yes	Sports	College	53
+STU20260257	Hannah Wanjala	13.0	Male	Grade 7	Physics	Term 3	D	2.5	90.9	83.2	4	Yes	None	College	51
+STU20260258	Daniel Kamau	16.0	Female	Grade 10	Kiswahili	Term 1	D	3.7	88.3	90.7	2	Yes	Sports	College	55
+STU20260259	Brian Maina	15.0	Female	Grade 10	Biology	Term 3	E	1.5	76.3	62.4	2	Yes	Sports	Secondary	34
+STU20260260	Victor Mwangi	18.0	Male	Grade 12	Biology	Term 1	D	2.3	94.7	69.8	2	Yes	Debate	Secondary	52
+STU20260261	Ian Achieng	13.0	Female	Grade 7	Kiswahili	Term 2	B	2.5	85.7	85.1	2	Yes	Music	College	79
+STU20260262	Ruth Otieno	17.0	Male	Grade 12	Biology	Term 3	D	0.7	67.9	72.2	2	Yes	Sports	University	50
+STU20260263	Daniel Mugambi	16.0	Female	Grade 10	Mathematics	Term 1	D	3.6	83.9	87.7	4	Yes	Sports	College	56
+STU20260264	Wanjiku Mutua	12.0	Female	Grade 7	Business Studies	Term 1	C	3.1	80.0	60.9	4	Yes	None	College	69
+STU20260265	Quincy Oduor	13.0	Female	Grade 8	Mathematics	Term 1	E	1.9	82.5	75.2	2	Yes	Music	University	26
+STU20260266	Zawadi Wekesa	16.0	Male	Grade 11	Computer Studies	Term 2	D	4.3	86.1	80.8	3	Yes	Sports	Secondary	59
+STU20260267	Emmanuel Chebet	16.0	Female	Grade 11	Chemistry	Term 2	B	4.9	83.6	98.8	2	Yes	Music	College	70
+STU20260268	George Were	17.0	Female	Grade 12	Physics	Term 3	B	3.6	91.6	79.5	3	Yes	None	Secondary	70
+STU20260269	Ian Achieng	15.0	Male	Grade 10	Business Studies	Term 3	D	1.5	81.0	65.6	3	Yes	Sports	College	51
+STU20260270	Samuel Kimani	18.0	Female	Grade 12	Computer Studies	Term 3	E	1.0	81.4	72.3	3	No	Debate	University	44
+STU20260271	Esther Otieno	15.0	Male	Grade 10	Kiswahili	Term 3	C	2.2	86.3	71.1	3	Yes	Sports	College	64
+STU20260272	Hannah Wekesa	17.0	Female	Grade 12	Chemistry	Term 3	D	2.9	89.0	79.8	4	Yes	None	University	55
+STU20260273	Daniel Kamau	14.0	Male	Grade 8	Business Studies	Term 1	E	2.6	77.8	78.7	3	Yes	Sports	Secondary	43
+STU20260274	Naomi Muli	14.0	Male	Grade 9	Mathematics	Term 3	D	3.4	85.5	59.8	2	Yes	Sports	Primary	50
+STU20260275	Joseph Mugambi	12.0	Female	Grade 7	Business Studies	Term 1	C	4.9	84.2	84.7	4	Yes	None	College	61
+STU20260276	Oscar Oduor	15.0	Female	Grade 10	Physics	Term 2	D	4.0	93.6	70.3	3	No	None	University	55
+STU20260277	Frida Maina	16.0	Male	Grade 10	Computer Studies	Term 3	C	4.5	93.5	83.6	1	Yes	Sports	University	69
+STU20260278	Xavier Muli	17.0	Female	Grade 12	Business Studies	Term 2	B	4.3	89.1	81.8	4	Yes	Debate	University	76
+STU20260279	Thomas Abdi	18.0	Female	Grade 12	History	Term 3	B	2.5	87.2	59.3	3	Yes	None	College	76
+STU20260280	Naomi Mugambi	15.0	Female	Grade 10	Business Studies	Term 1	A	4.2	86.0	77.3	4	Yes	Sports	College	86
+STU20260281	George Kiptoo	15.0	Male	Grade 10	Kiswahili	Term 2	B	1.7	83.2	83.0	3	Yes	Music	College	75
+STU20260282	Xavier Oduor	18.0	Male	Grade 12	Chemistry	Term 2	D	3.6	74.8	76.5	4	No	Debate	University	57
+STU20260283	Ian Were	18.0	Male	Grade 12	Physics	Term 1	D	4.1	99.8	93.9	4	No	Music	University	58
+STU20260284	Peter Mugambi	14.0	Female	Grade 9	Physics	Term 3	B	4.6	89.0	97.4	5	No	None	Secondary	73
+STU20260285	Joseph Omondi	15.0	Male	Grade 10	Biology	Term 3	C	3.8	92.9	67.9	4	Yes	Sports	University	66
+STU20260286	Patricia Kiplagat	16.0	Female	Grade 10	Geography	Term 1	B	3.2	87.4	87.4	2	Yes	Sports	Secondary	75
+STU20260287	Peter Kiptoo	16.0	Female	Grade 11	Biology	Term 1	A		88.0	100.0	4	Yes	None	College	81
+STU20260288	Naomi Otieno	16.0	Male	Grade 11	Biology	Term 2	D	3.0	90.4	74.4	2	Yes	None	College	52
+STU20260289	Kendi Mutua	14.0	Female	Grade 8	Computer Studies	Term 1	C	2.6	84.6	81.7	4	Yes	Sports	College	61
+STU20260290	Joy Njoroge	17.0	Female	Grade 12	History	Term 3	E	1.1	88.3	81.3	3	Yes	Sports	Secondary	47
+STU20260291	Emmanuel Otieno	18.0	Female	Grade 12	Business Studies	Term 2	D	1.6	90.4	99.1	3	Yes	Debate	Secondary	59
+STU20260292	Irene Kamau	17.0	Male	Grade 11	History	Term 2	A	4.4	100.0	89.3	3	Yes	Sports	Secondary	84
+STU20260293	Collins Barasa	18.0	Male	Grade 12	Biology	Term 1	D	3.0	93.9	56.6	5	Yes	None	Secondary	56
+STU20260294	Grace Were	15.0	Male	Grade 10	History	Term 2	E	0.2	90.2	82.5	2	Yes	Music	College	42
+STU20260295	Irene Kiptoo	17.0	Male	Grade 12	History	Term 2	E	1.4	95.0	79.8	3	No	Debate	College	43
+STU20260296	Henry Njoki	17.0	Male	Grade 12	History	Term 2	E	1.1	71.0	92.1	3	No	None	College	45
+STU20260297	Kendi Moraa	16.0	Male	Grade 11	Kiswahili	Term 1	C	3.6	94.1	88.6	4	Yes	Sports	College	69
+STU20260298	George Njoki	14.0	Female	Grade 8	Computer Studies	Term 3	D	2.5	72.8	76.0	2	Yes	Sports	Secondary	58
+STU20260299	Kevin Kiplagat	13.0	Female	Grade 7	Biology	Term 3	C	3.6	82.0	81.3	3	Yes	Arts	University	65
+STU20260300	Frida Koech	17.0	Female	Grade 11	Biology	Term 1	C	4.8	95.9	84.3	2	Yes	None	University	69

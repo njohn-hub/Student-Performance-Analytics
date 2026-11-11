@@ -1,0 +1,34 @@
+[project]
+name = "student-performance-analytics"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "John Ndungu",email = "njohn4752@gmail.com"}
+]
+requires-python = ">=3.14"
+dependencies = [
+    "pandas (>=3.1.0,<4.0.0)",
+    "numpy (>=2.5.4,<3.0.0)",
+    "matplotlib (>=3.11.2,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
+    "streamlit (>=1.66.1,<2.0.0)",
+    "scikit-learn (>=1.9.1,<2.0.0)",
+    "joblib (>=1.6.0,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.2.0,<10.0.0)",
+    "ruff (>=0.17.3,<0.18.0)"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]

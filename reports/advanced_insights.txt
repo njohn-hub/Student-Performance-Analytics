@@ -1,0 +1,14 @@
+STUDENT PERFORMANCE ANALYTICS
+==================================================
+
+1. Overall average score: 59.30%.
+2. Overall pass rate: 78.67% (pass mark: 50).
+3. Highest-performing subject: Kiswahili (61.97%).
+4. Lowest-performing subject: Chemistry (56.24%).
+5. Highest-performing class level: Grade 9.
+6. Lowest-performing class level: Grade 8.
+7. Highest average score by term: Term 1.
+8. Lowest average score by term: Term 3.
+9. Strongest numerical association with score: study_hours (Pearson correlation: 0.57).
+10. 82 student records meet at least one academic support screening criterion.
+11. Correlation indicates association, not causation. Support flags should be reviewed by teachers before decisions are made.

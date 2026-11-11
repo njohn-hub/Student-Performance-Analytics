@@ -1,0 +1,83 @@
+student_id,name,class_level,subject,term,score,attendance,homework_completion,support_reasons
+STU20260106,Rachel Mugambi,Grade 8,Chemistry,Term 3,25.0,85.1,78.0,Below pass mark
+STU20260265,Quincy Oduor,Grade 8,Mathematics,Term 1,26.0,82.5,75.2,Below pass mark
+STU20260099,Oscar Moraa,Grade 12,English,Term 3,31.0,77.3,100.0,Below pass mark
+STU20260068,Yvonne Moraa,Grade 12,Kiswahili,Term 3,32.0,79.2,55.9,Below pass mark
+STU20260259,Brian Maina,Grade 10,Biology,Term 3,34.0,76.3,62.4,Below pass mark
+STU20260134,Kendi Achieng,Grade 11,Mathematics,Term 3,35.0,88.4,47.6,Below pass mark; Low homework completion
+STU20260147,Oscar Mugambi,Grade 11,English,Term 3,36.0,83.4,78.8,Below pass mark
+STU20260158,Naomi Otieno,Grade 12,History,Term 2,36.0,74.4,74.4,Below pass mark; Low attendance
+STU20260156,Yvonne Barasa,Grade 7,Mathematics,Term 3,37.0,63.2,75.6,Below pass mark; Low attendance
+STU20260117,Hannah Kimani,Grade 11,Kiswahili,Term 3,39.0,78.8,66.0,Below pass mark
+STU20260055,Samuel Njoki,Grade 9,Geography,Term 3,39.0,84.1,58.9,Below pass mark
+STU20260051,Emmanuel Muthoni,Grade 7,Mathematics,Term 2,39.0,88.5,61.5,Below pass mark
+STU20260020,Wesley Kilonzo,Grade 11,Chemistry,Term 1,40.0,77.9,70.9,Below pass mark
+STU20260144,Yvonne Barasa,Grade 10,Mathematics,Term 3,40.0,91.0,57.7,Below pass mark
+STU20260123,Victor Koech,Grade 8,Biology,Term 1,40.0,69.5,78.7,Below pass mark; Low attendance
+STU20260136,Kevin Abdi,Grade 7,Physics,Term 3,40.0,89.8,70.0,Below pass mark
+STU20260240,Victor Mugambi,Grade 8,Biology,Term 2,40.0,64.8,53.8,Below pass mark; Low attendance
+STU20260150,Hannah Mwangi,Grade 9,Geography,Term 3,41.0,80.4,73.8,Below pass mark
+STU20260193,Peter Koech,Grade 7,History,Term 2,41.0,87.2,57.9,Below pass mark
+STU20260042,Ruth Nyambura,Grade 8,Kiswahili,Term 3,41.0,58.5,62.1,Below pass mark; Low attendance
+STU20260245,Joseph Chebet,Grade 11,English,Term 3,41.0,95.0,69.5,Below pass mark
+STU20260014,Thomas Njoki,Grade 12,Chemistry,Term 1,41.0,92.7,77.2,Below pass mark
+STU20260038,Beatrice Omondi,Grade 7,Business Studies,Term 1,41.0,96.1,67.0,Below pass mark
+STU20260078,Zawadi Otieno,Grade 10,Business Studies,Term 3,42.0,89.1,37.8,Below pass mark; Low homework completion
+STU20260036,Yvonne Moraa,Grade 11,Physics,Term 3,42.0,89.5,72.2,Below pass mark
+STU20260220,Esther Mutua,Grade 11,Mathematics,Term 2,42.0,85.4,65.5,Below pass mark
+STU20260128,Emmanuel Mwangi,Grade 9,Biology,Term 3,42.0,92.8,56.4,Below pass mark
+STU20260294,Grace Were,Grade 10,History,Term 2,42.0,90.2,82.5,Below pass mark
+STU20260084,Henry Mutua,Grade 8,Computer Studies,Term 3,42.0,91.7,80.9,Below pass mark
+STU20260122,Mark Achieng,Grade 9,Biology,Term 2,43.0,76.2,69.0,Below pass mark
+STU20260120,Zawadi Wanjala,Grade 10,Mathematics,Term 3,43.0,72.6,48.9,Below pass mark; Low attendance; Low homework completion
+STU20260041,Mary Kariuki,Grade 7,English,Term 3,43.0,84.4,83.5,Below pass mark
+STU20260242,Njeri Barasa,Grade 11,Kiswahili,Term 3,43.0,84.2,65.3,Below pass mark
+STU20260273,Daniel Kamau,Grade 8,Business Studies,Term 1,43.0,77.8,78.7,Below pass mark
+STU20260295,Irene Kiptoo,Grade 12,History,Term 2,43.0,95.0,79.8,Below pass mark
+STU20260185,Lydia Kilonzo,Grade 7,Chemistry,Term 3,44.0,72.0,91.5,Below pass mark; Low attendance
+STU20260096,George Chebet,Grade 12,Biology,Term 3,44.0,83.0,60.7,Below pass mark
+STU20260075,Lydia Kimani,Grade 7,Computer Studies,Term 3,44.0,77.9,76.0,Below pass mark
+STU20260178,Frida Mutua,Grade 12,Chemistry,Term 2,44.0,100.0,83.0,Below pass mark
+STU20260270,Samuel Kimani,Grade 12,Computer Studies,Term 3,44.0,81.4,72.3,Below pass mark
+STU20260159,Mark Oduor,Grade 11,Chemistry,Term 1,44.0,77.8,71.1,Below pass mark
+STU20260080,Daniel Barasa,Grade 10,History,Term 2,44.0,84.7,77.2,Below pass mark
+STU20260296,Henry Njoki,Grade 12,History,Term 2,45.0,71.0,92.1,Below pass mark; Low attendance
+STU20260053,Peter Wanjala,Grade 9,Biology,Term 2,45.0,89.5,78.5,Below pass mark
+STU20260074,Rachel Wanjala,Grade 8,English,Term 1,46.0,77.9,79.6,Below pass mark
+STU20260201,Ruth Kiptoo,Grade 8,Business Studies,Term 3,46.0,79.9,80.1,Below pass mark
+STU20260175,Emmanuel Oduor,Grade 8,Physics,Term 2,46.0,76.1,76.4,Below pass mark
+STU20260127,Leonard Kariuki,Grade 9,Business Studies,Term 2,46.0,79.7,85.0,Below pass mark
+STU20260232,Xavier Abdi,Grade 11,History,Term 2,46.0,87.1,71.0,Below pass mark
+STU20260239,Daniel Abdi,Grade 7,Physics,Term 3,47.0,84.6,76.6,Below pass mark
+STU20260172,Victor Mutua,Grade 10,Chemistry,Term 2,47.0,84.9,79.0,Below pass mark
+STU20260290,Joy Njoroge,Grade 12,History,Term 3,47.0,88.3,81.3,Below pass mark
+STU20260133,Njeri Njoroge,Grade 7,Kiswahili,Term 2,47.0,76.8,71.6,Below pass mark
+STU20260223,Oscar Kimani,Grade 8,English,Term 1,48.0,97.9,77.4,Below pass mark
+STU20260235,Kevin Kiptoo,Grade 7,English,Term 1,48.0,80.2,66.4,Below pass mark
+STU20260182,Daniel Kilonzo,Grade 7,Chemistry,Term 1,48.0,78.5,71.8,Below pass mark
+STU20260137,Brian Kariuki,Grade 12,Geography,Term 1,48.0,75.0,62.2,Below pass mark
+STU20260058,Peter Oduor,Grade 7,Kiswahili,Term 2,48.0,74.9,55.6,Below pass mark; Low attendance
+STU20260029,Faith Nyambura,Grade 12,Physics,Term 3,48.0,95.9,73.1,Below pass mark
+STU20260126,Henry Otieno,Grade 12,English,Term 1,49.0,86.8,97.6,Below pass mark
+STU20260073,Sheila Kamau,Grade 12,Business Studies,Term 2,49.0,86.6,86.5,Below pass mark
+STU20260095,Rachel Kilonzo,Grade 10,Geography,Term 3,49.0,99.9,47.3,Below pass mark; Low homework completion
+STU20260060,Njeri Oduor,Grade 12,Physics,Term 1,49.0,70.0,64.8,Below pass mark; Low attendance
+STU20260105,Henry Otieno,Grade 7,Physics,Term 2,49.0,66.2,78.6,Below pass mark; Low attendance
+STU20260034,Leonard Gathoni,Grade 7,English,Term 3,50.0,71.9,47.7,Low attendance; Low homework completion
+STU20260200,Irene Nyambura,Grade 7,Kiswahili,Term 2,50.0,73.2,68.9,Low attendance
+STU20260262,Ruth Otieno,Grade 12,Biology,Term 3,50.0,67.9,72.2,Low attendance
+STU20260056,Collins Muthoni,Grade 10,Geography,Term 3,51.0,74.5,85.5,Low attendance
+STU20260233,Njeri Njoki,Grade 10,Kiswahili,Term 1,53.0,72.3,71.7,Low attendance
+STU20260107,Wesley Kilonzo,Grade 10,Chemistry,Term 1,55.0,95.5,36.6,Low homework completion
+STU20260282,Xavier Oduor,Grade 12,Chemistry,Term 2,57.0,74.8,76.5,Low attendance
+STU20260113,Thomas Kilonzo,Grade 12,Physics,Term 1,57.0,64.6,79.2,Low attendance
+STU20260101,Hannah Mugambi,Grade 12,Physics,Term 1,58.0,74.0,71.3,Low attendance
+STU20260298,George Njoki,Grade 8,Computer Studies,Term 3,58.0,72.8,76.0,Low attendance
+STU20260189,Quincy Wanjala,Grade 8,Biology,Term 1,59.0,69.2,99.9,Low attendance
+STU20260001,Mary Moraa,Grade 10,History,Term 2,61.0,71.3,63.5,Low attendance
+STU20260169,Quincy Otieno,Grade 8,Kiswahili,Term 3,61.0,68.3,65.1,Low attendance
+STU20260135,Yvonne Otieno,Grade 11,History,Term 2,63.0,87.6,47.9,Low homework completion
+STU20260228,Faith Kiptoo,Grade 12,Kiswahili,Term 2,64.0,73.8,89.9,Low attendance
+STU20260187,Brian Kariuki,Grade 7,Computer Studies,Term 2,65.0,78.6,39.8,Low homework completion
+STU20260203,Wanjiku Nyambura,Grade 10,Kiswahili,Term 1,69.0,68.6,71.4,Low attendance
+STU20260229,Oscar Kiplagat,Grade 10,Mathematics,Term 3,77.0,74.8,84.3,Low attendance
