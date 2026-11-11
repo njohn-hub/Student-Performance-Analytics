@@ -2,9 +2,9 @@
 
 ## An end-to-end data science project for analyzing student academic performance, discovering learning patterns, and predicting examination scores using machine learning.
 
-Live Application: Launch Student Performance Analytics
+Live Application: https://student-performance-analyticsgit-wresbxnkz2unufappxme8d7.streamlit.app/
 
-Source Code: GitHub Repository
+Source Code: https://github.com/njohn-hub/Student-Performance-Analytics.git
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas&logoColor=white)
