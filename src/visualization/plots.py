@@ -1,7 +1,7 @@
 from pathlib import Path
 
-import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 import seaborn as sns
 
 
@@ -116,8 +116,9 @@ def plot_pass_fail(data, output_dir, pass_mark=50):
     Create a bar chart showing the number of students
     who passed and failed.
     """
+    
+    output_dir = ensure_output_directory(output_dir)
 
-    output_dir.mkdir(parents=True, exist_ok=True)
 
     # Convert scores to numeric values
     scores = pd.to_numeric(data["score"], errors="coerce").dropna()
@@ -266,90 +267,83 @@ def plot_attendance_vs_score(data, output_dir):
     plt.savefig(output_path, dpi=300)
     plt.close()
 
-    return output_path
+
 
 def plot_correlation_heatmap(data, output_dir):
-    """Create and save a correlation heatmap"""
-    
+    """Create and save a correlation heatmap."""
+
     setup_visualization()
     output_path = ensure_output_directory(output_dir)
-    
+
     columns = [
-        column 
+        column
         for column in ["score", "study_hours", "attendance"]
         if column in data.columns
     ]
-    
-    if len(columns) < 2: 
+
+    if len(columns) < 2:
         raise ValueError(
             "At least two numerical columns are required"
         )
-    
+
     numerical_data = data[columns].apply(
         pd.to_numeric,
         errors="coerce"
     )
-    
+
     correlation = numerical_data.corr()
-    
+
     plt.figure()
-    
+
     sns.heatmap(
         correlation,
         annot=True,
         fmt=".2f",
         square=True
     )
-    
+
     plt.title("Student performance correlation heatmap")
-    
-    file_path = output_dir / "correlation_heatmap.png"
-    
+
+    file_path = output_path / "correlation_heatmap.png"
+
     plt.savefig(file_path)
     plt.close()
-    
+
     return file_path
 
 
 
 def generate_all_visualizations(data, output_dir, pass_mark=50):
     """
-    Generate all project visualizations
-    
-    Returns a dictionary containing the paths
-    of all generated chart files
+    Generate all project visualizations.
+
+    Returns:
+        dict: Paths to all generated chart files.
     """
     
-    
+    # setup_visualization()
+    # ensure_output_directory(output_dir)
+
     return {
         "score_distribution": plot_score_distribution(
-            data,
-            output_dir
+            data, output_dir
         ),
         "performance_by_grade": plot_performance_by_grade(
-            data,
-            output_dir
+            data, output_dir
         ),
         "pass_fail": plot_pass_fail(
-            data,
-            output_dir,
-            pass_mark
+            data, output_dir, pass_mark
         ),
         "study_hours_vs_score": plot_study_hours_vs_score(
-            data,
-            output_dir
+            data, output_dir
         ),
         "attendance_vs_score": plot_attendance_vs_score(
-            data,
-            output_dir
+            data, output_dir
         ),
         "correlation_heatmap": plot_correlation_heatmap(
-            data,
-            output_dir
+            data, output_dir
         ),
-        
     }
-
 
 
 

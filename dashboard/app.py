@@ -17,27 +17,17 @@ if str(BASE_DIR) not in sys.path:
 # IMPORTS
 # --------------------------------------------------
 
-import pandas as pd
-import streamlit as st
 import matplotlib.pyplot as plt
+import pandas as pd
 import seaborn as sns
-
-from src.analytics.advanced import (
-    analyze_correlations,
-    analyze_subject_performance,
-    analyze_class_performance,
-    analyze_term_performance,
-    identify_students_for_support,
-    generate_insights,
-)
+import streamlit as st
 
 from src.analytics.prediction import (
-    load_model,
-    prepare_student_data,
-    predict_student_score,
     get_performance_category,
+    load_model,
+    predict_student_score,
+    prepare_student_data,
 )
-
 
 # --------------------------------------------------
 # CONFIGURATION

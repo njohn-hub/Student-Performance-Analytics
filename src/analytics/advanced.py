@@ -3,7 +3,6 @@ from pathlib import Path
 
 import pandas as pd
 
-
 # --------------------------------------------------
 # CONFIGURATION
 # --------------------------------------------------
@@ -403,8 +402,7 @@ def run_advanced_analytics(data, reports_dir):
         file.write("STUDENT PERFORMANCE ANALYTICS\n")
         file.write("=" * 50 + "\n\n")
 
-        for number, insight in enumerate(insights, start=1):
-            file.write(f"{number}. {insight}\n")
+        file.writelines(f"{number}. {insight}\n" for number, insight in enumerate(insights, start=1))
 
     # DISPLAY RESULTS
 

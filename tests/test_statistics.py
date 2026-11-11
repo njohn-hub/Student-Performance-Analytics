@@ -3,10 +3,10 @@ import pandas as pd
 import pytest
 
 from src.analytics.statistics import (
+    correlation_analysis,
     descriptive_statistics,
     grade_distribution,
     pass_fail_analysis,
-    correlation_analysis,
     performance_by_grade,
     run_statistical_analysis,
 )

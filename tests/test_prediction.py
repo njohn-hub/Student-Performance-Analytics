@@ -2,13 +2,11 @@ import pandas as pd
 import pytest
 
 from src.analytics.prediction import (
-    prepare_student_data,
     get_performance_category,
+    load_model,
     predict_student_score,
+    prepare_student_data,
 )
-
-from src.analytics.prediction import load_model
-
 
 
 def test_prepare_student_data():

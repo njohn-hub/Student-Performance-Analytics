@@ -1,16 +1,12 @@
 
 from pathlib import Path
 
-import pandas as pd
-
-from src.analytics.exploration import load_dataset
-from src.analytics.cleaning import clean_dataset
-from src.analytics.statistics import run_statistical_analysis
 from src.analytics.advanced import run_advanced_analytics
-from src.visualization.plots import generate_all_visualizations
+from src.analytics.cleaning import clean_dataset
+from src.analytics.exploration import load_dataset
 from src.analytics.machine_learning import run_machine_learning
-
-
+from src.analytics.statistics import run_statistical_analysis
+from src.visualization.plots import generate_all_visualizations
 
 # --------------------------------------------------
 # PROJECT PATHS
