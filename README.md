@@ -1,6 +1,10 @@
 # 📊 Student Performance Analytics
 
-**An interactive data science and machine learning project for analyzing student academic performance, identifying learning patterns, and predicting student scores.**
+## An end-to-end data science project for analyzing student academic performance, discovering learning patterns, and predicting examination scores using machine learning.
+
+Live Application: Launch Student Performance Analytics
+
+Source Code: GitHub Repository
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas&logoColor=white)
